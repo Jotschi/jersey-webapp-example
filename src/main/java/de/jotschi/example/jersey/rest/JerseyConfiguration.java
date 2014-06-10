@@ -6,7 +6,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 public class JerseyConfiguration extends ResourceConfig {
 
 	/**
-	 * Create an instance of the REST Appplication
+	 * Create an instance of the REST Application
 	 */
 	public JerseyConfiguration() {
 		// tell Jersey in which package the resources can be found
